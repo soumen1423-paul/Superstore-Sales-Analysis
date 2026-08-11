@@ -52,7 +52,7 @@ The main goal of this project is to identify important business insights and pro
 
 ### Monthly Sales and Profit
 
-![Monthly Sales and Profit](images/monthly_sales_profit.png)
+![Monthly Sales and Profit](images/monthly_sales_profit.png,images/monthly_sales_profit(2).png)
 
 ### Profit by Category
 
