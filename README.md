@@ -48,6 +48,32 @@ The main goal of this project is to identify important business insights and pro
 18. Provide business recommendations
 19. Conclusion
 
+## Project Visualizations
+
+### Monthly Sales and Profit
+
+![Monthly Sales and Profit](images/monthly_sales_profit.png)
+
+### Profit by Category
+
+![Profit by Category](images/category_profit.png)
+
+### Top Products by Profit
+
+![Top Products by Profit](images/product_profit.png)
+
+### Profit by Region
+
+![Profit by Region](images/regional_performance.png)
+
+### Customer Performance
+
+![Customer Performance](images/customer_analysis.png)
+
+### Sales vs Profit
+
+![Sales vs Profit](images/sales_vs_profit.png)
+
 ## Key Business Insights
 
 ### 1. Most Profitable Category
