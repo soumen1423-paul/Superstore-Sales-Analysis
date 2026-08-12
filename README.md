@@ -18,6 +18,15 @@ The main goal of this project is to identify important business insights and pro
 - Analyse the relationship between Sales, Profit, Discount, and Quantity
 - Provide business recommendations
 
+## Key Results
+
+- Technology was the most profitable category.
+- Tables generated the highest losses, while Bookcases also showed poor profitability.
+- West and East were the stronger-performing regions, while Central and South need improvement.
+- September, November, and December were among the strongest-performing months.
+- The top 20% of customers contributed approximately 47.96% of total sales.
+- Higher discounts had a negative relationship with profit but almost no relationship with sales.
+
 ## Tools Used
 
 - Python
